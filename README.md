@@ -3,7 +3,7 @@
 Эмулятор Радио 86РК , БК-0010-01 , БК-0011М и Специалист на ESP8266EX
 
 
-![image](https://github.com/tank-uk/8266_4Conf_Emu/blob/main/board.PNG)
+![image](https://github.com/r4wabr/8266_4Conf_Emu/blob/main/board.PNG)
 
 
 
